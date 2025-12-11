@@ -30,9 +30,9 @@
 
 <div align="center">
   ###
-![streak graph](https://streak-stats.denolab.com?user=gerlanoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)
-![trophy graph](https://github-profile-trophy.vercel.app?username=gerlanoDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
-###
+<img src="https://streak stats.denolab.comuser=gerlanoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border
+_radius=5&order=3" height="150" alt="streak graph" />
+<img src="https://github-profile-trophy.vercel.app?username=gerlanoDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
