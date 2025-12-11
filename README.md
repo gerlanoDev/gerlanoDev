@@ -1,5 +1,4 @@
 <h1 align="center">Olá! Eu sou o Gerlano Araújo 👋🏻</h1>
-<p>Desenvolvedor Front-End focado em JavaScript, estudante de Análise e Desenvolvimento de Sistemas na Unifor. Apaixonado por criar interfaces modernas, funcionais e bem estruturadas, sempre buscando evoluir e entregar código limpo e eficiente.</p>
 
 ###
 
