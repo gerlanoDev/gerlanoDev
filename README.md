@@ -34,9 +34,8 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gerlanoDev&theme=dracula&hide_border=false&border_radius=5&short_numbers=false&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=150)](https://git.io/streak-stats)
-
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=gerlanoDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophies.vercel.app/?username=gerlanoDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
