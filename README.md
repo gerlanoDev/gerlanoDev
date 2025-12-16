@@ -35,6 +35,7 @@
 ###
 
 <div align="center">
+  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerlanoDev&layout=compact&theme=dracula"/>
   <img src="https://github-profile-trophies.vercel.app/?username=gerlanoDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
