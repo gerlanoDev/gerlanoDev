@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerlano-ara%C3%BAjo-3084b6340/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"/>
   </a>
   
   <a href="https://www.instagram.com/gerlano7/?hl=pt-br">
