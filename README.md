@@ -30,14 +30,6 @@
 
 ###
 
-<div align="center">
-  <!-- Removed github-readme-stats card that caused a broken image icon -->
-  <a href="https://github.com/gerlanoDev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerlanoDev&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</div>
-
 ###
 
 <picture>
