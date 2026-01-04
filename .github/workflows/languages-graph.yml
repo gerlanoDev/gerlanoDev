@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: gerlanoDev
+          INCLUDE_PRIVATE_REPOS: true
