@@ -30,9 +30,13 @@
 
 ###
 
-<p align="center">
-  <img src="profile-summary-card-output/languages.svg" alt="Most used languages" />
-</p>
+<div align="center">
+
+![](https://raw.githubusercontent.com/gerlanoDev/gerlanoDev/main/profile-summary-card-output/dracula/3-stats.svg)
+![](https://raw.githubusercontent.com/gerlanoDev/gerlanoDev/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
+
+
+</div>
 
 ###
 
