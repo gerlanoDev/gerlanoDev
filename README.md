@@ -30,6 +30,10 @@
 
 ###
 
+<p align="center">
+  <img src="profile-summary-card-output/languages.svg" alt="Most used languages" />
+</p>
+
 ###
 
 <picture>
