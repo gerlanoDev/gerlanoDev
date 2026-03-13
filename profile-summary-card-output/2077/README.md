@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/gerlanoDev/gerlanoDev/main/profile-summary-card-output/2077/4-productive-time.svg)
+```
+
+    
